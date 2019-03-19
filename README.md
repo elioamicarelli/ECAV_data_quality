@@ -20,7 +20,9 @@ The consulting involved the devise of a sound statistical design to:
 
 ## The solution
 
-In order to address the above mentioned problem I have designed and implemented a statistical strategy tailored on the client's needs. The following documents produced during this job are available in the "reports" folder:
+In order to address the above mentioned problem I have designed and implemented a statistical strategy tailored on the client's needs. 
+
+The following documents produced during this job are available in the "reports" folder:
 
 - 1_ECAV08016_Strategy. This document outlines a strategy to assess the coders’ performances and the data quality for the ECAV project.
 
