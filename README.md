@@ -2,7 +2,7 @@
 
 In 2016/2017 I provided statistical consulting services to the Electoral Contention and Violence Data Project (ECAV). This repository contains some of the material produced for this job.
 
-## ECAV in brief
+## The ECAV project
 
 The ECAV project is based at the University of Amsterdam (UvA) where it is lead by Dr. Ursula Daxecker. The goal of ECAV is to create a database of nonviolent and violent acts of contestation by state or nonstate actors during period of national elections in uncosolidated regimes. In order to accomplish this goal, trained human coders identify the political events of interests from provided news articles and encode them into machine-readable variables following a set of pre-established coding rules. If for example a newswire is reporting a protest in Cairo, the coders extract information regarding who did what when and where and enter this information in a database.
 
