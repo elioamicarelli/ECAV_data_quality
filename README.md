@@ -2,7 +2,7 @@
 
 In 2016/2017 I provided statistical consulting services to the Electoral Contention and Violence Data Project (ECAV). This repository contains some of the material produced for this job.
 
-This repository only contains material that the client agreed to make publicly available.
+The client agreed to make publicly available all the material that can be found in this repository.
 
 ## The ECAV project
 
