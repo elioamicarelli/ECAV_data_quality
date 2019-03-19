@@ -6,14 +6,14 @@ The client agreed to make publicly available all the material that can be found 
 
 ## The ECAV project
 
-The ECAV project is based at the University of Amsterdam (UvA) where it is lead by Dr. Ursula Daxecker. The goal of ECAV is to create a database of nonviolent and violent acts of contestation by state or nonstate actors during period of national elections in uncosolidated regimes. In order to accomplish this goal, trained human coders identify the political events of interests from provided news articles and encode them into machine-readable variables following a set of pre-established coding rules. If for example a newswire is reporting a protest in Cairo, the coders extract information regarding who did what when and where and enter this information in a database.
+The ECAV project is lead by Dr. Ursula Daxecker (University of Amsterdam, UvA). The goal of ECAV is to create a database of nonviolent and violent acts of contestation by state or nonstate actors during period of national elections in uncosolidated regimes. In order to accomplish this goal, trained human coders identify the political events of interests from provided news articles and encode them into machine-readable variables following a set of pre-established coding rules. If for example a newswire is reporting a protest in Cairo, the coders extract information regarding who did what when and where and enter this information in a database.
 
 ## The problem
 
 The production of event data can create problems of data quality. Human coders
 can vary in their ability to correctly identify and encode the political events of interest. Factors such as a) different levels in the understanding of what has to be considered an event of interest, b) how the coding rules should be applied in order to translate the news reporting in machine-readable variables and c) the effort each coder puts in doing his job, can jeopardize
 the quality of the data. For these reasons, the Project Leader was interested in assessing the quality of the data produced and in evaluating the coders’ performances based on objective criteria.
-To sum up, for this project I had to figure out how to accomplish the following tasks:
+The consulting involved the devise of a sound statistical design to:
 1) Assess the performances of the coders in order to orient hiring decisions as well as decisions regarding the targeted provision of further training.
 2) Evaluate the quality of the data produced in order to ensure that the information extracted from news articles was correct.
 3) Identify the coding rules negatively affecting the data extraction: for example some coding protocols may be not specific enough in order to allow to consistently extract the right bit of information from the news.
