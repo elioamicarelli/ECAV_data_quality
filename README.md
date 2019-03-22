@@ -4,6 +4,10 @@ In 2016/2017 I provided statistical consulting services to the Electoral Content
 
 The client agreed to make publicly available all the material that can be found in this repository.
 
+Peer-reviewed articles:
+
+Daxecker U., Amicarelli E. and Alexander Jung. Electoral contention and violence (ECAV): a new dataset, Journal of Peace Research (2019). https://journals.sagepub.com/doi/full/10.1177/0022343318823870
+
 ## The ECAV project
 
 The ECAV project is lead by Dr. Ursula Daxecker (University of Amsterdam, UvA). The goal of ECAV is to create a database of nonviolent and violent acts of contestation by state or nonstate actors during period of national elections in uncosolidated regimes. In order to accomplish this goal, trained human coders identify the political events of interests from provided news articles and encode them into machine-readable variables following a set of pre-established coding rules. If for example a newswire is reporting a protest in Cairo, the coders extract information regarding who did what when and where and enter this information in a database.
