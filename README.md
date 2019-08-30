@@ -1,6 +1,6 @@
 # About this repo
 
-In 2016/2017 I provided statistical consulting services to the Electoral Contention and Violence Data Project (ECAV). This repository contains some of the material produced for this job.
+This repository contains some material from my consultancy for the Electoral Contention and Violence Data Project (ECAV).
 
 The client agreed to make publicly available all the material that can be found in this repository.
 
@@ -36,7 +36,7 @@ The following documents produced during this job are available in the "reports" 
 
 - 4_ECAV03017_comparison. This document compares ECAV data with the data produced by a different data project.
 
-In the "functions" folder you can find some relevant R code written for this job:
+In the "functions" folder you can find some relevant R code:
 
 - identification_functions. Functions to calculate true positive rates and precision performances by coder with 95% bootstrapped confidence intervals.
 
