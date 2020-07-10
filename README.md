@@ -30,7 +30,7 @@ The following documents produced during this job are available in the "reports" 
 
 - 1_ECAV08016_Strategy. This document outlines a strategy to assess the coders’ performances and the data quality for the ECAV project.
 
-- 2_ECAV09016_identification. This document describes the methodology adopted and presents the statistical results regarding the assessment of the coders' identifincation performances.
+- 2_ECAV09016_identification. This document describes the methodology adopted and presents the statistical results regarding the assessment of the coders' identification performances.
 
 - 3_ECAV10016_reliability_and_validity. This document presents the methodology adopted and the statistical results for coders' reliability and validity performances.
 
